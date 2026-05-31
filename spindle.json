@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "Ambient Audio",
+  "identifier": "ambient_audio",
+  "author": "starlitcode",
+  "github": "https://github.com/starlitcode/Lumiverse-Ambient-Audio",
+  "homepage": "https://github.com/starlitcode/Lumiverse-Ambient-Audio",
+  "description": "Background music and ambient sounds for your chats. Link audio to backgrounds and character expressions, pop out floating players, and back up your setup.",
+  "permissions": [],
+  "entry_frontend": "dist/frontend.js"
+}
